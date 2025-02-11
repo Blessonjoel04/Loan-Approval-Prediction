@@ -11,6 +11,7 @@ This project implements a binary classification system using machine learning te
 5. Random Forest.
 6. Gradient Boost.
 7. XGBoost.
+8. Neural Networks using PyTorch
   
 
 ## Installation
